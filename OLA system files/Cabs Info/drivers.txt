@@ -1,0 +1,14 @@
+ron Lingraj_Nagar_Samudaya_Bhavan MICRO Hyundai 9172638172 0
+chan Unkal_Lake MICRO Hyundai 9448200129 0
+pqr Urban_Oasis_Mall SEDAN Toyota 9253627382 0
+lmn KIMS PRIME Volkswagon 9255672839 0
+ham Deshpande_Nagar MICRO SUZUKI 9276483901 0
+ron Keshwapur MINI Honda 9176320123 0
+don Vijay_Nagar AUTO Auto 9987645390 0
+jon Raj_Nagar SHARE Hyundai 9826357829 1
+gon Bhavani_Nagar RENTAL Innova 9187201723 1
+den Railway_Ground MICRO Datsun 9987678903 1
+ben Madhura_Estate MINI Mahindra 9261872910 1
+pro KLE_Technological_University MICRO Toyota 9281628162 0
+
+

@@ -1,0 +1,3678 @@
+_________________START OF PROCESS_________________
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:15:26 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:15:26 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:15:26 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:15:26 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:15:26 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:15:26 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:15:26 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:23:29 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:23:29 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:23:29 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:23:29 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:23:29 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:23:29 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:23:29 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:31:53 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:31:53 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:31:53 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:31:53 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:31:53 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:31:53 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:31:53 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:39:06 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:39:06 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:39:06 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:39:06 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:39:06 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:39:06 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:39:06 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:42:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:42:15 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:42:15 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:42:15 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:42:15 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:42:15 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:42:15 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:44:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:44:15 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:44:15 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:44:15 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:44:15 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:44:15 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:44:15 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:47:54 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:47:54 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:47:54 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:47:54 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:47:54 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:47:54 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:47:54 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:48:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:48:10 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:48:10 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:48:10 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:48:10 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:48:10 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:48:10 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:51:30 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:51:30 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:51:30 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:51:30 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:51:30 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:51:30 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:51:30 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:54:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:54:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:54:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:54:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:54:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:54:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:54:46 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:56:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:56:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:56:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:56:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:56:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:56:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:56:46 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 17:57:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 17:57:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 17:57:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 17:57:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 17:57:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 17:57:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 17:57:46 2022
+ load : SUCCESS --->Load Successful
+
+Sun Jan 16 17:58:05 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sun Jan 16 17:58:12 2022
+ file_empty_check : SUCCESS --->ride_history_user3.txt has content.
+
+Sun Jan 16 17:59:35 2022
+ dump : SUCCESS --->users count dumped successfully
+
+Sun Jan 16 17:59:35 2022
+ dump : SUCCESS --->Drivers count dumped successfully
+
+Sun Jan 16 17:59:35 2022
+ dump : SUCCESS --->Users dumped successfully
+
+Sun Jan 16 17:59:35 2022
+ dump : SUCCESS --->Data dumped successfully
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:04:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:04:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:04:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:04:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:04:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:04:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:04:46 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:09:23 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:09:23 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:09:23 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:09:23 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:09:23 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:09:23 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:09:23 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:11:12 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:11:12 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:11:12 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:11:12 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:11:12 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:11:12 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:11:12 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:12:19 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:19 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:12:19 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:12:19 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:12:19 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:19 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:12:19 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:12:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:12:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:12:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:12:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:12:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:12:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:12:46 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:14:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:14:20 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:14:20 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:14:20 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:14:20 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:14:20 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:14:20 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:15:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:15:20 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:15:20 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:15:20 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:15:20 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:15:20 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:15:20 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:23:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:23:46 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:23:46 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:23:46 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:23:46 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:23:46 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:23:46 2022
+ load : SUCCESS --->Load Successful
+
+Sun Jan 16 18:24:03 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sun Jan 16 18:24:10 2022
+ file_empty_check : SUCCESS --->ride_history_user3.txt has content.
+
+Sun Jan 16 18:26:03 2022
+ print_cabs() : SUCCESS --->Cabs List Displayed successfully.
+
+Sun Jan 16 18:27:30 2022
+ print_cabs() : SUCCESS --->Cabs List Displayed successfully.
+
+Sun Jan 16 18:32:08 2022
+ dump : SUCCESS --->users count dumped successfully
+
+Sun Jan 16 18:32:08 2022
+ dump : SUCCESS --->Drivers count dumped successfully
+
+Sun Jan 16 18:32:08 2022
+ dump : SUCCESS --->Users dumped successfully
+
+Sun Jan 16 18:32:08 2022
+ dump : SUCCESS --->Data dumped successfully
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:38:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:38:10 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:38:10 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:38:10 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:38:10 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:38:10 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:38:10 2022
+ load : SUCCESS --->Load Successful
+
+Sun Jan 16 18:38:31 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sun Jan 16 18:38:40 2022
+ file_empty_check : SUCCESS --->ride_history_user3.txt has content.
+
+Sun Jan 16 18:39:36 2022
+ dump : SUCCESS --->users count dumped successfully
+
+Sun Jan 16 18:39:36 2022
+ dump : SUCCESS --->Drivers count dumped successfully
+
+Sun Jan 16 18:39:36 2022
+ dump : SUCCESS --->Users dumped successfully
+
+Sun Jan 16 18:39:36 2022
+ dump : SUCCESS --->Data dumped successfully
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 18:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 18:48:28 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 18:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 18:48:28 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 18:48:28 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 18:48:28 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 18:48:28 2022
+ load : _________________START OF PROCESS_________________
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 19:55:46 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 19:55:46 2022
+ drivers_________________START OF PROCESS_________________
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Sun Jan 16 20:35:51 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ user_load : SUCCESS --->User List successfully created
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Sun Jan 16 20:35:51 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Sun Jan 16 20:35:51 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Sun Jan 16 20:35:51 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Sun Jan 16 20:35:51 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Sun Jan 16 20:35:51 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Sun Jan 16 20:35:51 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Sun Jan 16 20:35:51 2022
+ load : SUCCESS --->Load Successful
+
+Sun Jan 16 20:36:03 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Sun Jan 16 20:36:03 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sun Jan 16 20:36:11 2022
+ file_empty_check : SUCCESS --->ride_history_user3.txt has content.
+
+Sun Jan 16 20:36:11 2022
+ rides_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:36:11 2022
+ ride_insert : SUCCESS --->NOde Successfully inserted at th end of rides list.
+
+Sun Jan 16 20:36:11 2022
+ rides_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:36:11 2022
+ ride_insert : SUCCESS --->NOde Successfully inserted at th end of rides list.
+
+Sun Jan 16 20:36:11 2022
+ rides_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Sun Jan 16 20:36:11 2022
+ ride_insert : SUCCESS --->NOde Successfully inserted at th end of rides list.
+
+Sun Jan 16 20:36:11 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Sun Jan 16 20:36:11 2022
+ load_user1 : SUCCESS --->Successfully loaded the data into new structure.
+
+Sun Jan 16 20:36:13 2022
+ print_profile_details : SUCCESS --->Successfully displayed the profile details.
+
+Sun Jan 16 20:36:24 2022
+ print_ride_history : SUCCESS --->Displayed the data succesfully.
+
+Sun Jan 16 20:36:36 2022
+ print_ride_history : SUCCESS --->Displayed the data succesfully.
+
+Sun Jan 16 20:36:39 2022
+ logout_dump : SUCCESS --->Data Successfully placed in secondary memory(Rides_history).
+
+Sun Jan 16 20:36:41 2022
+ dump : SUCCESS --->users count dumped successfully
+
+Sun Jan 16 20:36:41 2022
+ dump : SUCCESS --->Drivers count dumped successfully
+
+Sun Jan 16 20:36:41 2022
+ dump : SUCCESS --->Users dumped successfully
+
+Sun Jan 16 20:36:41 2022
+ dump : SUCCESS --->Data dumped successfully
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Thu May 26 10:48:28 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Thu May 26 10:48:28 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:48:28 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:48:28 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:48:28 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:48:28 2022
+ user_load : SUCCESS --->User List successfully created
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:48:28 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:48:28 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Thu May 26 10:48:28 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:48:28 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:48:28 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:48:28 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:48:28 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:48:28 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Thu May 26 10:48:28 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:48:28 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:48:28 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Thu May 26 10:48:28 2022
+ load : SUCCESS --->Load Successful
+
+Thu May 26 10:48:55 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Thu May 26 10:48:55 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu May 26 10:49:02 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:50:51 2022
+ password_validation : FAILURE --->Password is not affirmed.
+
+Thu May 26 10:50:58 2022
+ password_validation : SUCCESS --->Password is affirmed.
+
+Thu May 26 10:51:04 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:51:04 2022
+ user_profile_details : SUCCESS --->User details updated su_________________START OF PROCESS_________________
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->users_count.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->users.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->drivers_count.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->drivers.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->locations_count.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->locations.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->coupon_codes_count.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->coupon_codes.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->time_data.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->distance_data.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->cabs_count.txt has content.
+
+Thu May 26 10:53:01 2022
+ file_empty_check : SUCCESS --->cabs.txt has content.
+
+Thu May 26 10:53:01 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:53:01 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:53:01 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:53:01 2022
+ users_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ user_insert : SUCCESS --->Insertion of node at the end of USERS List Successful
+
+Thu May 26 10:53:01 2022
+ user_load : SUCCESS --->User List successfully created
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:53:01 2022
+ drivers_insert : SUCCESS --->Insertion of node at the end of DRIVERS List Successful
+
+Thu May 26 10:53:01 2022
+ drivers_load : SUCCESS --->Drivers List successfully created
+
+Thu May 26 10:53:01 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:53:01 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:53:01 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:53:01 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:53:01 2022
+ Coupon_memory_allocation : SUCCESS --->Coupon NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ coupon_insert : SUCCESS --->Coupon NODE Succefully inserted at the end of coupons list.
+
+Thu May 26 10:53:01 2022
+ coupon_codes_load : SUCCESS --->Coupons Code List successfully created
+
+Thu May 26 10:53:01 2022
+ locations_load : SUCCESS --->Locations succssfully loaded to array.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ Cabs_memory_allocation : SUCCESS --->Cabs NODE Succefully created.
+
+Thu May 26 10:53:01 2022
+ cabs_insert : SUCCESS --->Cabs NODE Succefully inserted at the end of Cabs list.
+
+Thu May 26 10:53:01 2022
+ cabs_load : SUCCESS ---> List successfully created
+
+Thu May 26 10:53:01 2022
+ load : SUCCESS --->Load Successful
+
+Thu May 26 10:53:29 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu May 26 10:53:29 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu May 26 10:53:37 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user1.txtis empty. No data available
+
+Thu May 26 10:53:37 2022
+ load_ride_history : FAILURE --->User Ride history is empty.
+
+Thu May 26 10:53:37 2022
+ load_user1 : SUCCESS --->Successfully loaded the data into new structure.
+
+Thu May 26 10:53:44 2022
+ print_profile_details : SUCCESS --->Successfully displayed the profile details.
+
+Thu May 26 10:53:50 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu May 26 10:54:23 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu May 26 10:54:28 2022
+ location_validation : FAILURE --->No matching locations found.
+
+Thu May 26 10:54:33 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu May 26 10:54:33 2022
+ print_cabs() : SUCCESS --->Cabs List Displayed successfully.
+
+Thu May 26 10:54:56 2022
+ search_fare : SUCCESS --->Fare of Cab found.
+
+Thu May 26 10:55:02 2022
+ rides_memory_allocation : SUCCESS --->Memory allocation Successful
+
+Thu May 26 10:55:02 2022
+ ride_insert : SUCCESS --->NOde Successfully inserted at th end of rides list.
+
