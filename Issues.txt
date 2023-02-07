@@ -1,0 +1,2 @@
+The users data can be used to login or a fresh user profile can be created. There are some issues with reading the data from the 
+ride_history file which will be rectified. The directory system will be implemented to have more structure to the data processing.
